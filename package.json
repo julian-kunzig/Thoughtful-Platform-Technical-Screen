@@ -1,0 +1,23 @@
+{
+  "name": "thoughtfulaiassessment",
+  "version": "1.0.0",
+  "description": "sort package function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thoughtfulAiAssessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://thoughtfulAiAssessment/issues"
+  },
+  "homepage": "https://thoughtfulAiAssessment#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
